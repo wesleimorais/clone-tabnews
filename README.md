@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto de implementação da página https://www.tabnews.com.br/ no https://curso.dev - Um projeto para treinar programação
+Este é um projeto de implementação da página https://www.tabnews.com.br/ no https://curso.dev. Iniciativa voltada para o treinamento em programação.
